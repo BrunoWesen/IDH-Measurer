@@ -1,0 +1,29 @@
+Código dos municípios IBGE:
+    -Amazonas: 13
+        -Manaus: 1302603
+    -Pará: 15
+        -Belém: 1501402
+    -Maranhão: 21
+        -São Luís: 2111300
+    -Ceará: 23
+        -Fortaleza: 2304400
+    -Rio Grande do Norte: 24
+        -Natal: 2408102
+    -Pernambuco: 26
+        -Recife: 2611606
+    -Alagoas: 27
+        -Maceió: 2704302
+    -Bahia: 29
+        -Salvador: 2927408
+    -Minas Gerais: 31
+        -Belo Horizonte: 3106200
+    -Rio de Janeiro: 33
+        -Rio de Janeiro: 3304557
+    -São Paulo: 35
+        -São Paulo: 3550308
+    -Paraná: 41
+        -Curitiba: 4106902
+    -Rio Grande do Sul: 43
+        -Porto Alegre: 4314902
+    -Goiás: 52
+        -Goiânia: 5208707
